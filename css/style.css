@@ -56,8 +56,9 @@ aside{
     }
 }
 aside:hover{
-    width: 1200px;
-    
+    width: 1400px;
+    height: 100px;
+        
 }
 footer{
     text-align: center;
@@ -65,4 +66,10 @@ footer{
 #Diagrama{
     border: 5px solid black;
     margin-left: 250px;
-    }
+    margin-bottom: 100px;
+    
+}
+
+#Mapa{
+    margin-left: 250px;
+}
