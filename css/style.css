@@ -45,6 +45,7 @@ aside{
     width: 300px;
     height: 50px;
     transition: width 10s;
+    margin-bottom: 150px;
 }
 @keyframes test {
     from{
@@ -56,7 +57,12 @@ aside{
 }
 aside:hover{
     width: 1200px;
+    
 }
 footer{
     text-align: center;
 }
+#Diagrama{
+    border: 5px solid black;
+    margin-left: 250px;
+    }
